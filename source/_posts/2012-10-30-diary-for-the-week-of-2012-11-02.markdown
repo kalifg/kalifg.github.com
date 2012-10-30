@@ -6,6 +6,7 @@ comments: true
 categories: Diary
 published: false
 ---
+
 * Started bring the pluggable version of my Node.js LDAP server back
   to life.  This version only supports a single database connection
   but that will have to be changed.
