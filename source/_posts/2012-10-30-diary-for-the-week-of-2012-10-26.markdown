@@ -4,7 +4,7 @@ title: "Diary for the week of 10/26"
 date: 2012-10-28 09:06
 comments: true
 categories: Diary
-published: false
+published: true
 ---
 
 * First week without [Brian](http://echosa.github.com) in the office.
