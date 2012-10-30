@@ -7,6 +7,9 @@ categories: Diary
 published: false
 ---
 
+* Boss got a note from HR saying that my promotion was *official*.
+  It's a 31.6% pay increase, can't wait to actually see it!
+
 * Started bring the pluggable version of my Node.js LDAP server back
   to life.  This version only supports a single database connection
   but that will have to be changed.
